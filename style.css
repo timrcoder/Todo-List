@@ -1,0 +1,56 @@
+
+body{
+    background-color: bisque;
+
+} 
+
+ul{
+    list-style: none;
+    margin-top: 20px;
+    border-top: 2px solid tan;
+    display: none;
+
+}
+
+li{
+    border-bottom: 1px solid burlywood;
+    padding: 5px;
+}
+/* .container{
+    background-color: beige;
+} */
+
+/* input[type=checkbox]{
+    float: right;
+    height: 30px;
+    width: 30px;
+    border: 1px solid green;
+    display: none;
+} */
+
+
+input[type=checkbox]{
+    float: right;
+    line-height: 15px;
+    width: 17px;
+    background-color: blue;
+    border: 1px solid ;
+    border-radius: 3px;
+}
+p{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 30px;
+    font-family: 'Franklin Gothic Medium', 'Times New Roman';
+} 
+
+#btnClr{
+    margin: 10px;
+}
+/*    WHY am I NOT able to use the code below the same as the above <p> tag??? */
+/* h1{
+    font-size: 80px;
+    text-align: center;
+    margin-top: 30px;
+    font-family: 'Franklin Gothic Medium', 'Times New Roman';
+} */
